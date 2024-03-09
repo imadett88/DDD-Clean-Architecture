@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QjpTMnCgmrkLcWsTz+pi9OXC3J9t3TnEnRb9bZGw5kedkRRze7Wo4IU+TKMHNlYQdDdr0J99m4JXopTcZApJog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\IMAD.ETTAMEN\\Downloads\\DDD-Clean-Architecture-master\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IMAD.ETTAMEN\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\IMAD.ETTAMEN\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\IMAD.ETTAMEN\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
